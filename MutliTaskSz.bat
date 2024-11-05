@@ -1,6 +1,6 @@
 :: Created by Shinoa [ https://github.com/Shin0a ]
 :: Created on March 27, 2019
-:: Updated on October 31, 2024
+:: Updated on November 6, 2024
 
 @echo off
 set version=V0.94a
